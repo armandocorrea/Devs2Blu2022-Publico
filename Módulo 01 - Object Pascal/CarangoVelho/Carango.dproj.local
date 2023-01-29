@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/29 21:46:02.330,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/29 21:58:06.723,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\CarangoVelho\uFrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/29 21:58:06.723,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\CarangoVelho\uFrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/09/29 21:58:12.274,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\CarangoVelho\Carango.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

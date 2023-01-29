@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/03 18:22:27.000.615,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/03 18:23:16.000.244,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/09/03 18:23:16.000.244,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/09/03 18:26:20.000.700,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\Project1.dproj</Transaction>
+    <Transaction>2022/09/03 18:27:07.000.426,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 18:27:14.000.419,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\UPessoa.pas</Transaction>
+    <Transaction>2022/09/03 18:34:20.244,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\01 - Primeiro Contato\UPessoa.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

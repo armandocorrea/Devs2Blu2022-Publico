@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/03 18:35:44.427,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/03 18:35:59.136,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/09/03 18:36:24.333,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\USecoes.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/09/03 18:46:11.055,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\UFrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/03 18:46:11.055,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\UFrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/09/03 18:46:14.672,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\Project2.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2022/09/03 18:47:16.313,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 18:47:26.750,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\TAnimal.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\Unit1.pas</Transaction>
+    <Transaction>2022/09/03 18:48:17.575,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\02 - Blocos de Seções\UAnimal.pas</Transaction>
+  </Transactions>
+</BorlandProject>

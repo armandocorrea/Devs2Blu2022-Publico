@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/10 20:25:02.042,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/10 20:26:30.974,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\12 - Array e Records\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/09/10 20:26:30.974,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\12 - Array e Records\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/09/10 20:26:40.027,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 01 - Object Pascal\Exercicios\12 - Array e Records\ArraysRecords.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
