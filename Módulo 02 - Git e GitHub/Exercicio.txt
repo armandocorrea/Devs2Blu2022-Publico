@@ -1,0 +1,16 @@
+35. Faça um algoritmo que calcule o valor da conta de luz de uma pessoa. Sabe-se que o cálculo
+da conta de luz segue a tabela abaixo:
+  Tipo de Cliente Valor do KW/h
+    a. (Residência) 0,60;
+    b. (Comércio) 0,48;
+    c. (Indústria) 1,29.
+
+*35.2 Faça um algoritmo que calcule o valor da conta de luz de uma pessoa. 
+Sabe-se que o cálculo da conta de luz segue a tabela abaixo:  
+  Tipo de Cliente Valor do KW/h
+    a. (Residência) 0,60
+    b. (Comércio) 0,48
+    c. (Indústria) 1,29
+	d. (Fazenda) 2,18		
+  Informar também se o cliente possui desconto a ser abatido em sua conta	
+  Pode refatorar o código do amigo também se achar necessário
