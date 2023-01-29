@@ -1,0 +1,51 @@
+use devsblu;
+
+CREATE TABLE PedidoCompra 
+( 
+ Id INT unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,  
+ Numero INT UNSIGNED NOT NULL UNIQUE,  
+ DataPedido DATE,  
+ idComprador INT unsigned,  
+ idFornecedor INT unsigned  
+); 
+
+CREATE TABLE Comprador 
+( 
+ Id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+ Nome VARCHAR(250) NOT NULL,   
+ Cargo VARCHAR(50) NOT NULL 
+); 
+
+CREATE TABLE Fornecedor 
+( 
+ Id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,  
+ CNPJ VARCHAR(14),  
+ Nome VARCHAR(250) NOT NULL  
+); 
+
+CREATE TABLE ItemCompra 
+( 
+ Id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,  
+ Quantidade FLOAT(4,2) NOT NULL,  
+ idPedidoCompra INT UNSIGNED NOT NULL,  
+ idProduto INT UNSIGNED NOT NULL  
+); 
+
+CREATE TABLE Produto 
+( 
+ Id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,  
+ Descricao VARCHAR(250) NOT NULL,  
+ idUnidadeMedida INT UNSIGNED NOT NULL 
+); 
+
+CREATE TABLE UnidadeMedida 
+(  
+ Id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,  
+ Descricao varchar(100) not null  
+); 
+
+ALTER TABLE PedidoCompra ADD FOREIGN KEY(idComprador) REFERENCES Comprador (id);
+ALTER TABLE PedidoCompra ADD FOREIGN KEY(idFornecedor) REFERENCES Fornecedor (id);
+ALTER TABLE ItemCompra ADD FOREIGN KEY(idPedidoCompra) REFERENCES PedidoCompra (id);
+ALTER TABLE ItemCompra ADD FOREIGN KEY(idProduto) REFERENCES Produto (id);
+ALTER TABLE Produto ADD FOREIGN KEY(idUnidadeMedida) REFERENCES UnidadeMedida (id);

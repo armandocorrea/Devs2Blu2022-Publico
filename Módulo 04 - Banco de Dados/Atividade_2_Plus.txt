@@ -1,0 +1,14 @@
+Dependentes
+  - Codigo do Dependente
+  - Codigo do Funcionario
+  - Grau de Parentesco
+  - Data de Nascimento
+  - Sexo
+  - Endereço
+  - Complemento
+  - Bairro
+  - Cidade
+  - CEP
+  - Estado
+  - Tipo Sanguineo
+  
