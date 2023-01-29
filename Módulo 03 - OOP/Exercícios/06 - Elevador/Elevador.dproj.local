@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/19 20:55:40.000.242,=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 20:56:21.000.889,=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:00:06.000.571,=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:03:33.000.025,=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:13:58.000.381,D:\FURB\Aulas\Módulo 03 - OOP\Exercícios\06 - Elevador\UfrmPrincipal.pas=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:13:58.000.381,D:\FURB\Aulas\Módulo 03 - OOP\Exercícios\06 - Elevador\UfrmPrincipal.dfm=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/19 21:14:02.000.756,D:\FURB\Aulas\Módulo 03 - OOP\Exercícios\06 - Elevador\Elevador.dproj=C:\Users\achenrique\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/19 21:18:53.000.745,=D:\FURB\Aulas\Módulo 03 - OOP\Exercícios\06 - Elevador\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 21:19:00.000.640,D:\FURB\Aulas\Módulo 03 - OOP\Exercícios\06 - Elevador\UElevador.pas=D:\FURB\Aulas\Módulo 03 - OOP\Exercícios\06 - Elevador\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

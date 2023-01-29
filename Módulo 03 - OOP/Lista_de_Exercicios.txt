@@ -1,0 +1,33 @@
+1. Crie uma classe para representar uma Pessoa com os atributos privados de nome, data de nascimento e altura. 
+   Crie os métodos públicos necessários para getters e setters e também um método para imprimir todos dados de uma pessoa. 
+   Crie um método para calcular a idade da pessoa. 
+
+2. Crie uma classe para implementar uma ContaCorrente. 
+   A classe deve possuir os seguintes atributos: número da conta, nome do correntista e saldo. 
+   Os métodos são os seguintes: alterarNome, depósito e saque; 
+   No construtor, saldo é opcional, com valor default zero e os demais atributos são obrigatórios.
+
+3. Crie uma classe para representar uma BombaCombustivel. 
+   A classe BombaCombustivel deve conter os seguintes atributos: tipo de combustível, valor por litro e quantidade de combustível. 
+   Além desses atributos a classes deve conter os seguintes métodos.
+
+   a.	abastecerPorValor; //método onde é informado o valor a ser abastecido e mostra a quantidade de litros que foi colocada no veículo
+   b.	abastecerPorLitro; // método onde é informado a quantidade em litros de combustível e mostra o valor a ser pago pelo cliente.
+   c.	alterarValor; //altera o valor do litro do combustível.
+   d.	alterarCombustivel; //altera o tipo do combustível.
+   e.	alterarQuantidadeCombustivel; //altera a quantidade de combustível restante na bomba.
+
+4. Crie uma classe denominada Elevador para armazenar as informações de um elevador dentro de um prédio. A classe deve armazenar o andar atual (térreo = 0), total de andares no prédio (desconsiderando o térreo), capacidade do elevador e quantas pessoas estão presentes nele. A classe deve também disponibilizar os seguintes métodos: 
+
+   a.	Inicializa: que deve receber como parâmetros a capacidade do elevador e o total de andares no prédio (os elevadores sempre começam no térreo e vazio);
+   b.	Entra: para acrescentar uma pessoa no elevador (só deve acrescentar se ainda houver espaço);
+   c.	Sai: para remover uma pessoa do elevador (só deve remover se houver alguém dentro dele);
+   d.	Sobe: para subir um andar (não deve subir se já estiver no último andar);
+   e.	Desce: para descer um andar (não deve descer se já estiver no térreo);
+
+5. Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina. 
+   Cada objeto dessa classe deve guardar os seguintes dados do aluno: matrícula, nome, 2 notas de prova e 1 nota de trabalho. 
+   Escreva os seguintes métodos para esta classe:
+
+   a.	media: calcula a média final do aluno
+   b.	final: calcula quanto o aluno precisa para a prova final (retorna zero se ele não for para a final)        

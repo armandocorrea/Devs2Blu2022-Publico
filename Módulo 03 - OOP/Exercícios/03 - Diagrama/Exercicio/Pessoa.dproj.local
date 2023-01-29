@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/10/16 18:43:42.541,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/10/16 18:43:48.933,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/10/16 18:44:08.837,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 03 - OOP\Exercícios\03 - Diagrama\Exercicio\UPessoa.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/10/16 19:22:12.465,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 03 - OOP\Exercícios\03 - Diagrama\Exercicio\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/10/16 19:22:12.465,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 03 - OOP\Exercícios\03 - Diagrama\Exercicio\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/10/16 19:22:17.188,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 03 - OOP\Exercícios\03 - Diagrama\Exercicio\Pessoa.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

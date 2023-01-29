@@ -1,0 +1,27 @@
+RESOLVENDO SEM OOP
+
+Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas válidas). 
+Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triângulos possui a maior área.
+
+A fórmula para calcular a área de um triângulo a partir das medidas de seus lados a, b e c é a seguinte (fórmula de Heron):
+ area = RaizQuadrada (p(p-a)(p-b)(p-c)) 
+ onde p = (a+b+c) / 2
+
+Usar o Sqrt
+
+Exemplo
+  Medidas X
+   3,00
+   4,00
+   5,00
+  Medidas Y
+   7,5
+   4,50
+   4,02
+  
+  Area X = 6,000
+  Area Y = 7,5638
+  Triagulo Y é maior
+   
+
+RESOLVENDO COM OOP
