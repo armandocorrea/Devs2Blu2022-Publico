@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 16:32:07.000.428,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 16:32:30.000.846,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/21 16:32:47.000.512,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\ComAbstractFactory.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/21 16:33:10.000.282,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:33:18.000.787,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UInterfaces.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:35:21.000.731,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:35:34.000.573,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UDell.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:37:22.000.265,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:37:31.000.629,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UApple.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:41:00.000.067,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:41:11.000.964,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UVostro.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:43:14.000.655,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:43:28.000.214,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UMacBook.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:44:13.000.563,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:44:25.000.012,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UInspiron.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:45:30.000.562,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:45:40.000.056,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UIMac.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 16:49:01.000.007,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UIMac.pas=</Transaction>
+    <Transaction>2023/01/21 16:49:01.000.078,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UVostro.pas=</Transaction>
+    <Transaction>2023/01/21 16:49:01.000.050,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UInterfaces.pas=</Transaction>
+    <Transaction>2023/01/21 16:49:01.000.065,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UMacBook.pas=</Transaction>
+    <Transaction>2023/01/21 16:49:01.000.037,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UInspiron.pas=</Transaction>
+    <Transaction>2023/01/21 16:49:04.000.869,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UApple.pas=</Transaction>
+    <Transaction>2023/01/21 16:49:04.000.885,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\UDell.pas=</Transaction>
+    <Transaction>2023/01/21 16:50:26.000.463,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\factorys\UInterfaces.pas</Transaction>
+    <Transaction>2023/01/21 16:50:26.000.363,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\factorys\UApple.pas</Transaction>
+    <Transaction>2023/01/21 16:50:26.000.397,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\factorys\UDell.pas</Transaction>
+    <Transaction>2023/01/21 16:50:38.000.595,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\entities\UMacBook.pas</Transaction>
+    <Transaction>2023/01/21 16:50:38.000.524,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\entities\UIMac.pas</Transaction>
+    <Transaction>2023/01/21 16:50:38.000.557,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\entities\UInspiron.pas</Transaction>
+    <Transaction>2023/01/21 16:50:38.000.648,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\1 - Abstract Factory\ComPadrao\model\entities\UVostro.pas</Transaction>
+  </Transactions>
+</BorlandProject>

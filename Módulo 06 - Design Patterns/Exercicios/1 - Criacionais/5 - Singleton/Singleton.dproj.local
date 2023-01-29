@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 19:52:42.481,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 19:53:01.365,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\5 - Singleton\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/21 19:53:01.365,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\5 - Singleton\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 19:53:07.118,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\5 - Singleton\Singleton.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/21 19:53:34.914,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\5 - Singleton\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 19:53:55.706,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\5 - Singleton\model\singleton\ULoggerSingleton.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\5 - Singleton\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

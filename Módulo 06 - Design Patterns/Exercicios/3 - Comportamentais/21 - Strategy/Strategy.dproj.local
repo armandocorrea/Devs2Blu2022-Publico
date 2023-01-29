@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/28 17:32:41.120,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/28 17:33:02.355,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/28 17:33:02.355,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/28 17:33:09.498,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Strategy.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/28 17:35:36.135,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:36:01.914,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UInterface_Strategy.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:36:39.345,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:36:50.429,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UConcrete_Strategy.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:39:52.378,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UConcrete_StrategyDLL.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UConcrete_Strategy.pas</Transaction>
+    <Transaction>2023/01/28 17:40:34.097,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\WebService.RegExLib.pas</Transaction>
+    <Transaction>2023/01/28 17:40:39.667,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:40:53.148,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UConcrete_StrategyRegExLib.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:44:41.409,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:45:00.776,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UConcrete_StrategyMailBoxLayer.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:50:31.338,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 17:50:42.309,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\pattern\Strategy\UContext.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\21 - Strategy\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

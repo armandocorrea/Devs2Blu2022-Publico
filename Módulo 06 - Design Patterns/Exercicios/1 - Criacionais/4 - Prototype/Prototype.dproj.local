@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 19:05:24.000.138,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 19:05:48.000.857,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\4 - Prototype\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/21 19:05:48.000.857,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\4 - Prototype\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/21 19:05:58.000.527,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\4 - Prototype\Prototype.dproj</Transaction>
+    <Transaction>2023/01/21 19:06:42.000.078,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\4 - Prototype\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 19:07:04.000.490,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\4 - Prototype\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\4 - Prototype\Model\Prototype\UReuniao.pas</Transaction>
+  </Transactions>
+</BorlandProject>

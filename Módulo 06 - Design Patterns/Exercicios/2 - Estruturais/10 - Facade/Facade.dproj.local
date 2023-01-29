@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 11:40:25.907,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 11:40:49.028,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 11:40:49.028,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/22 11:40:53.717,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Facade.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/22 11:41:39.260,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\FachadaWSSGS1.pas</Transaction>
+    <Transaction>2023/01/22 11:41:56.184,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Model\Facade\FachadaWSSGS1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\FachadaWSSGS1.pas</Transaction>
+    <Transaction>2023/01/22 11:42:04.484,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:43:12.612,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Model\Facade\USubSystem_CotacaoDolar.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:44:50.044,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:45:06.765,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Model\Facade\USubSystem_CalculoLoja.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:47:05.901,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:47:19.885,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Model\Facade\USubSystem_Historico.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:49:05.268,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:49:17.855,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Model\Facade\UFacade.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\10 - Facade\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

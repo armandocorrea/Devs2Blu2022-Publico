@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 11:01:49.287,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 11:02:08.968,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/22 11:02:08.968,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 11:02:13.953,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Decorator.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/22 11:02:26.134,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:03:15.423,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Model\Decorator\UInterfaceComponent.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:03:50.762,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:04:13.238,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Model\Decorator\UConcreteComponent.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:06:44.615,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:06:56.497,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Model\Decorator\UDecorator.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:10:19.044,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:10:41.149,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Model\Decorator\UConcreteDecorator_DataHora.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:12:51.845,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:13:06.486,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Model\Decorator\UConcreteDecorator_Usuario.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:15:14.674,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 11:15:26.770,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Model\Decorator\UConcreteDecorator_Windows.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\9 - Decorator\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 17:28:25.257,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 17:29:00.469,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/21 17:29:00.469,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/21 17:29:12.204,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\PadraoBuilder.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/21 17:29:16.004,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:30:06.174,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\model\entities\UProduct.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:36:17.570,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:36:35.616,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\model\builder\UBuilder.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:38:36.317,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:38:54.518,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\model\builder\UConcreteBuilder.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:47:47.673,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 17:48:03.878,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\model\builder\UDirector.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\1 - Criacionais\2 - Builder\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

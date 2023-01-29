@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/28 18:20:16.003,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/28 18:20:35.921,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/28 18:20:35.921,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/28 18:20:40.228,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Visitor.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/28 18:52:01.181,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:52:22.081,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UInterface_Element.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:53:34.289,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:53:53.190,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Element_Funcionario.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:55:53.314,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:56:09.070,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Element_Programador.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:59:33.507,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 18:59:46.695,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Element_Gerente.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:01:27.687,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:01:46.882,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UInterface_Visitor.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:04:11.266,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:04:24.510,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Visitor.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:08:02.700,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:08:20.833,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Visitor_Senioridade.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\Unit1.pas</Transaction>
+    <Transaction>2023/01/28 19:08:27.498,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Visitor_Salario.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\23 - Visitor\pattern\Visitor\UConcrete_Visitor.pas</Transaction>
+  </Transactions>
+</BorlandProject>

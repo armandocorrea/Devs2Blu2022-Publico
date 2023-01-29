@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 12:18:02.454,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 12:18:22.852,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/22 12:18:22.852,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 12:18:32.924,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Flyweight.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/22 12:19:01.808,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 12:19:22.987,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\UInterface.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 12:20:49.664,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 12:21:45.315,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UConcreteBase.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 12:21:57.158,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\UInterface.pas=</Transaction>
+    <Transaction>2023/01/22 12:22:17.758,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UInterface.pas</Transaction>
+    <Transaction>2023/01/22 12:26:27.678,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UConcreteFlywight.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UConcreteBase.pas</Transaction>
+    <Transaction>2023/01/22 12:26:35.476,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UConcreteFlyweight.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UConcreteFlywight.pas</Transaction>
+    <Transaction>2023/01/22 12:29:44.082,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 12:29:58.566,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Model\Flyweight\UFlyweightFactory.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\2 - Estruturais\11 - Flyweight\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
