@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/04 23:57:52.000.321,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:25:53.000.996,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:26:55.000.934,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:34:51.000.123,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:35:19.000.567,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/20 21:46:15.000.102,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/31 23:08:16.000.779,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/31 23:08:55.000.278,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\CURSOS\HEBER\99Designer\MÓDULO 05\NETFLIX\PROJETO\UfrmPrincipal.fmx</Transaction>
+    <Transaction>2020/01/31 23:08:55.000.278,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\CURSOS\HEBER\99Designer\MÓDULO 05\NETFLIX\PROJETO\UfrmPrincipal.pas</Transaction>
+    <Transaction>2020/01/31 23:09:08.000.630,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\CURSOS\HEBER\99Designer\MÓDULO 05\NETFLIX\PROJETO\NetFlix_Delphi.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0070269525" Android64="0070269525"/>
+	</ActiveMobileDevice>
+</BorlandProject>

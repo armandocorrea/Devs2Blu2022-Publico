@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/10/29 17:50:42.000.547,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/10/29 17:51:35.000.099,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmPrincipal.pas</Transaction>
+    <Transaction>2022/10/29 17:51:35.000.099,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2022/10/29 17:51:40.000.039,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Pedido.dproj</Transaction>
+    <Transaction>2022/10/29 19:18:49.000.984,=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas</Transaction>
+    <Transaction>2022/10/29 19:18:58.000.091,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmProdutos.pas</Transaction>
+    <Transaction>2022/10/29 19:18:58.000.091,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmProdutos.dfm</Transaction>
+    <Transaction>2022/10/29 19:19:30.000.376,=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas</Transaction>
+    <Transaction>2022/10/29 19:19:49.000.760,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UdmPedidos.pas</Transaction>
+    <Transaction>2022/10/29 19:19:49.000.760,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UdmPedidos.dfm</Transaction>
+    <Transaction>2022/10/29 19:33:06.000.454,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmProdutos.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmUnidadeMedida.pas</Transaction>
+    <Transaction>2022/10/29 19:33:06.000.454,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmProdutos.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmUnidadeMedida.dfm</Transaction>
+    <Transaction>2022/10/29 19:37:42.000.480,=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmProdutos.pas</Transaction>
+    <Transaction>2022/10/29 19:59:25.000.087,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmUnidadeMedida.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmFornecedores.dfm</Transaction>
+    <Transaction>2022/10/29 19:59:25.000.087,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmUnidadeMedida.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmFornecedores.pas</Transaction>
+    <Transaction>2022/10/29 19:59:52.000.469,=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmUnidadeMedida.pas</Transaction>
+    <Transaction>2022/10/29 20:02:15.000.402,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmFornecedores.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmCompradores.pas</Transaction>
+    <Transaction>2022/10/29 20:02:15.000.403,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmFornecedores.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmCompradores.dfm</Transaction>
+    <Transaction>2022/10/29 20:02:35.000.565,=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmFornecedores.pas</Transaction>
+    <Transaction>2022/10/29 20:06:41.000.237,=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas</Transaction>
+    <Transaction>2022/10/29 20:06:49.000.626,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmPedidos.pas</Transaction>
+    <Transaction>2022/10/29 20:06:49.000.626,E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.dfm=E:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\UfrmPedidos.dfm</Transaction>
+    <Transaction>2022/10/31 21:04:37.000.061,=D:\FURB\Aulas\Módulo 04 - Banco de Dados\PedidoCompra\Unit1.pas</Transaction>
+    <Transaction>2023/01/04 19:44:53.327,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\Unit1.pas</Transaction>
+    <Transaction>2023/01/04 19:46:49.883,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelUnidadeMedida.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\Unit1.dfm</Transaction>
+    <Transaction>2023/01/04 19:46:49.883,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelUnidadeMedida.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\Unit1.pas</Transaction>
+    <Transaction>2023/01/04 20:31:06.428,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelCompradores.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelUnidadeMedida.dfm</Transaction>
+    <Transaction>2023/01/04 20:31:06.428,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelCompradores.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelUnidadeMedida.pas</Transaction>
+    <Transaction>2023/01/04 20:31:45.067,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelUnidadeMedida.pas</Transaction>
+    <Transaction>2023/01/04 20:42:45.425,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelFornecedores.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelCompradores.dfm</Transaction>
+    <Transaction>2023/01/04 20:42:45.425,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelFornecedores.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelCompradores.pas</Transaction>
+    <Transaction>2023/01/04 20:43:25.634,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelCompradores.pas</Transaction>
+    <Transaction>2023/01/04 20:57:19.824,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelProdutos.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelFornecedores.pas</Transaction>
+    <Transaction>2023/01/04 20:57:19.824,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelProdutos.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelFornecedores.dfm</Transaction>
+    <Transaction>2023/01/04 20:57:49.953,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelFornecedores.pas</Transaction>
+    <Transaction>2023/01/04 21:13:45.713,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelPedidos.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelProdutos.dfm</Transaction>
+    <Transaction>2023/01/04 21:13:45.713,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelPedidos.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\PedidoCompra\UfrmRelProdutos.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UdmPedidos.pas"/>
+    <File Path="UdmPedidos.dfm"/>
+    <File Path="UfrmCompradores.pas"/>
+    <File Path="UfrmCompradores.dfm"/>
+    <File Path="UfrmFornecedores.pas"/>
+    <File Path="UfrmFornecedores.dfm"/>
+    <File Path="UfrmPedidos.pas"/>
+    <File Path="UfrmPedidos.dfm"/>
+    <File Path="UfrmPrincipal.pas"/>
+    <File Path="UfrmPrincipal.dfm"/>
+    <File Path="UfrmProdutos.pas"/>
+    <File Path="UfrmProdutos.dfm"/>
+    <File Path="UfrmUnidadeMedida.pas"/>
+    <File Path="UfrmUnidadeMedida.dfm"/>
+    <File Path="UfrmRelUnidadeMedida.pas"/>
+    <File Path="UfrmRelUnidadeMedida.dfm"/>
+    <File Path="UfrmRelCompradores.pas"/>
+    <File Path="UfrmRelCompradores.dfm"/>
+    <File Path="UfrmRelFornecedores.pas"/>
+    <File Path="UfrmRelFornecedores.dfm"/>
+    <File Path="UfrmRelPedidos.pas"/>
+    <File Path="UfrmRelPedidos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

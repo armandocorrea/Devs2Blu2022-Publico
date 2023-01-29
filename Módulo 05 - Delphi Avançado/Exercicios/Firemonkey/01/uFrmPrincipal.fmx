@@ -1,0 +1,99 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Form6'
+  ClientHeight = 443
+  ClientWidth = 379
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 3
+  object ToolBar1: TToolBar
+    Size.Width = 379.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Client
+      Fill.Color = xFF93A1E1
+      Size.Width = 379.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      object edtNovaTarefa: TEdit
+        Touch.InteractiveGestures = [LongTap, DoubleTap]
+        Align = Left
+        StyleLookup = 'editstyle'
+        TabOrder = 0
+        TextSettings.FontColor = claWhite
+        Position.X = 10.000000000000000000
+        Position.Y = 8.000000000000000000
+        Margins.Left = 10.000000000000000000
+        Size.Width = 263.000000000000000000
+        Size.Height = 32.000000000000000000
+        Size.PlatformDefault = False
+        TextPrompt = 'Nova Tarefa'
+        StyledSettings = [Family, Size, Style]
+      end
+      object btnAdicionar: TButton
+        Align = Right
+        StyledSettings = [Family, Size, Style]
+        IconTintColor = claWhite
+        Margins.Left = 5.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 5.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 326.000000000000000000
+        Position.Y = 5.000000000000000000
+        Size.Width = 48.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'additembutton'
+        TabOrder = 1
+        TextSettings.FontColor = claWhite
+        OnClick = btnAdicionarClick
+      end
+    end
+  end
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 379.000000000000000000
+    Size.Height = 395.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Rectangle2: TRectangle
+      Align = Client
+      Fill.Color = claWhite
+      Size.Width = 379.000000000000000000
+      Size.Height = 395.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object lstTarefas: TListView
+      ItemAppearanceClassName = 'TListItemAppearance'
+      ItemEditAppearanceClassName = 'TListItemDeleteAppearance'
+      HeaderAppearanceClassName = 'TListHeaderObjects'
+      FooterAppearanceClassName = 'TListHeaderObjects'
+      AllowSelection = False
+      ItemSpaces.Left = 30.000000000000000000
+      Align = Client
+      CanFocus = False
+      Margins.Left = 3.000000000000000000
+      Margins.Top = 3.000000000000000000
+      Margins.Right = 3.000000000000000000
+      Margins.Bottom = 3.000000000000000000
+      Size.Width = 373.000000000000000000
+      Size.Height = 389.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      ItemAppearance.HeaderHeight = 20
+      ItemAppearanceObjects.ItemObjects.Accessory.AccessoryType = Checkmark
+      ItemAppearanceObjects.ItemObjects.Accessory.Visible = False
+      StyleLookup = 'listviewstyle'
+      OnDeleteItem = lstTarefasDeleteItem
+      DeleteButtonText = 'Excluir'
+      ShowSelection = False
+    end
+  end
+end

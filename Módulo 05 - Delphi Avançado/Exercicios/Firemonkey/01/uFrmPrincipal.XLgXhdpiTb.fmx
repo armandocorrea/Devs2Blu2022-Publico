@@ -1,0 +1,23 @@
+inherited frmPrincipal_XLgXhdpiTb: TfrmPrincipal_XLgXhdpiTb
+  ClientHeight = 1255
+  ClientWidth = 800
+  DesignerMasterStyle = 3
+  inherited ToolBar1: TToolBar
+    Size.Width = 800.000000000000000000
+    inherited Rectangle1: TRectangle
+      Size.Width = 800.000000000000000000
+    end
+  end
+  inherited Layout1: TLayout
+    Size.Width = 800.000000000000000000
+    Size.Height = 1207.000000000000000000
+    inherited Rectangle2: TRectangle
+      Size.Width = 800.000000000000000000
+      Size.Height = 1207.000000000000000000
+    end
+    inherited lstTarefas: TListView
+      Size.Width = 794.000000000000000000
+      Size.Height = 1201.000000000000000000
+    end
+  end
+end

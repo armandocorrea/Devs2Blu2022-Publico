@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/07 18:19:01.000.775,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/13 18:33:12.000.590,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 18:02:40.946,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 18:20:24.848,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\IMC\Projeto\UFrmPrincipal.fmx=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/12/16 18:20:24.848,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\IMC\Projeto\UFrmPrincipal.pas=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 18:20:28.700,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\IMC\Projeto\IMC.dproj=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="0070269525" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

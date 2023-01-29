@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/04 23:57:52.000.321,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:25:53.000.996,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:26:55.000.934,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:34:51.000.123,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/05 23:35:19.000.567,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/20 21:46:15.000.102,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 22:25:25.000.067,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 22:26:18.000.490,D:\CURSOS\HEBER\99Designer\MÓDULO 05\MERCADO_LIVRE\PROJETO\UfrmPrincipal.fmx=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/01/30 22:26:18.000.490,D:\CURSOS\HEBER\99Designer\MÓDULO 05\MERCADO_LIVRE\PROJETO\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/30 22:26:28.000.428,D:\CURSOS\HEBER\99Designer\MÓDULO 05\MERCADO_LIVRE\PROJETO\MercadoLivre_Delphi.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

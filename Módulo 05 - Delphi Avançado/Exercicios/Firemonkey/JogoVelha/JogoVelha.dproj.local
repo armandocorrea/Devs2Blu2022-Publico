@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/17 14:34:34.000.763,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/17 14:57:43.000.016,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\JogoVelha\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/12/17 14:57:43.000.016,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.fmx=C:\Users\kikob\Desktop\JogoVelha\UFrmPrincipal.fmx</Transaction>
+    <Transaction>2022/12/17 14:57:46.000.196,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\JogoVelha\JogoVelha.dproj</Transaction>
+    <Transaction>2022/12/17 18:42:31.000.717,=C:\Users\kikob\Desktop\JogoVelha\Unit1.pas</Transaction>
+    <Transaction>2022/12/17 19:03:32.000.577,C:\Users\kikob\Desktop\JogoVelha\Unit1.fmx=C:\Users\kikob\Desktop\JogoVelha\UfrmPrincipal2.fmx</Transaction>
+    <Transaction>2022/12/17 19:03:32.000.577,C:\Users\kikob\Desktop\JogoVelha\Unit1.pas=C:\Users\kikob\Desktop\JogoVelha\UfrmPrincipal2.pas</Transaction>
+    <Transaction>2022/12/18 17:39:42.000.135,=C:\Users\kikob\Desktop\JogoVelha\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 17:39:51.000.725,C:\Users\kikob\Desktop\JogoVelha\UJogoVelha.pas=C:\Users\kikob\Desktop\JogoVelha\Unit1.pas</Transaction>
+    <Transaction>2022/12/18 18:56:39.000.579,C:\Users\kikob\Desktop\JogoVelha\UFrmPrincipal.pas=</Transaction>
+    <Transaction>2022/12/18 18:56:57.000.867,C:\Users\kikob\Desktop\JogoVelha\UfrmPrincipal.fmx=C:\Users\kikob\Desktop\JogoVelha\UfrmPrincipal2.fmx</Transaction>
+    <Transaction>2022/12/18 18:56:57.000.867,C:\Users\kikob\Desktop\JogoVelha\UfrmPrincipal.pas=C:\Users\kikob\Desktop\JogoVelha\UfrmPrincipal2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="0070269525"/>
+	</ActiveMobileDevice>
+</BorlandProject>

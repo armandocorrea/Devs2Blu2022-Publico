@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/07 18:19:01.000.775,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/13 18:33:12.000.590,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/21 21:36:13.000.977,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/11 21:40:50.000.143,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 21:35:42.000.927,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 21:35:52.000.425,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/01/12 21:36:21.000.380,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UdmSekila.pas</Transaction>
+    <Transaction>2023/01/12 21:36:21.000.380,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UdmSekila.dfm</Transaction>
+    <Transaction>2023/01/12 21:36:27.000.343,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/12 21:36:27.000.343,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/12 21:36:31.000.558,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\Sekila.dproj</Transaction>
+    <Transaction>2023/01/12 21:38:40.000.124,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UdmSekila.dfm=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UdmSakila.dfm</Transaction>
+    <Transaction>2023/01/12 21:38:40.000.124,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UdmSekila.pas=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\UdmSakila.pas</Transaction>
+    <Transaction>2023/01/12 21:39:50.000.432,=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 21:40:50.000.664,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\Unit1.dfm=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.dfm</Transaction>
+    <Transaction>2023/01/12 21:40:50.000.664,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\Unit1.pas=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.pas</Transaction>
+    <Transaction>2023/01/13 17:59:30.783,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\Sakila.dproj=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\Sekila.dproj</Transaction>
+    <Transaction>2023/01/13 18:00:50.068,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelCity.dfm=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.dfm</Transaction>
+    <Transaction>2023/01/13 18:00:50.068,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelCity.pas=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.pas</Transaction>
+    <Transaction>2023/01/13 18:01:13.495,=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.pas</Transaction>
+    <Transaction>2023/01/13 18:17:33.686,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActoresFilmes.pas=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.pas</Transaction>
+    <Transaction>2023/01/13 18:17:33.686,D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActoresFilmes.dfm=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.dfm</Transaction>
+    <Transaction>2023/01/13 18:17:47.228,=D:\FURB\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Relatórios\Sakila\Projeto\URelActores.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="0070269525" Android="0070269525"/>
+	</ActiveMobileDevice>
+</BorlandProject>

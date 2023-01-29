@@ -1,0 +1,5 @@
+  - Crie uma interface para uma calculadora com as seguintes operações:
+    - Soma, Subtração, Multiplicação e Divisão
+  - Crie uma classe que implemente a interface criada acima
+  - Crie uma classe de serviço para calcular as operações
+  - Crie um formulário simples para testar seu programa

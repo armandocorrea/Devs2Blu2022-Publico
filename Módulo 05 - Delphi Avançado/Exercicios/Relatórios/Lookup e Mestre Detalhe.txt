@@ -1,0 +1,15 @@
+DBLookupComboBox
+  FDQuery ou FDTable = Dados de uma tabela ou consulta SQL (Ex.: Cidades)
+  DataSource                = Componente de ligação
+  ListSource                  = DataSource
+  ListField                      = Campo que vai aparecer para o usuário na lista do combo (Ex.: Nome da Cidade)
+  KeyField                     = Campo que vai ficar armazenado internamente quando o usuário selecionar um item da lista (PK da tabela)
+
+Mestre Detalhe (TFDQuery)
+  FDQuery ou FDTable = Dados de uma tabela ou consulta SQL (Ex. Cidades)
+  DataSource                = Componente de ligação
+  MasterSource            = DataSource
+  MasterField               = Chave Primária da tabela pai (city_id)
+  IndexFieldNames      = Chave Estrangeira da tabela filha (city_id)
+
+Obs.: Não esquecer de realizar o Open das querys

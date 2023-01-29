@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/02 18:48:46.000.969,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/12/02 18:54:54.000.563,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.fmx=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\uFrmPrincipal.fmx</Transaction>
+    <Transaction>2022/12/02 18:54:54.000.563,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\uFrmPrincipal.pas</Transaction>
+    <Transaction>2022/12/02 18:55:02.000.649,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\ToDoList_Delphi.dproj</Transaction>
+    <Transaction>2022/12/02 19:27:09.000.544,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\Unit1.pas</Transaction>
+    <Transaction>2022/12/02 19:27:20.000.539,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\SharedPreference.pas</Transaction>
+    <Transaction>2022/12/02 20:35:49.000.769,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\Unit1.pas</Transaction>
+    <Transaction>2022/12/02 20:42:38.000.515,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\ufrmSplash.fmx=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\Unit1.fmx</Transaction>
+    <Transaction>2022/12/02 20:42:38.000.515,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\ufrmSplash.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Firemonkey\01\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

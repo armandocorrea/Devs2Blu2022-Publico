@@ -1,0 +1,6 @@
+C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\C#\MinhaDLL\bin\x86\Release\MinhaDLL.dll
+C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\C#\MinhaDLL\bin\x86\Release\MinhaDLL.pdb
+C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\C#\MinhaDLL\obj\x86\Release\MinhaDLL.csprojAssemblyReference.cache
+C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\C#\MinhaDLL\obj\x86\Release\MinhaDLL.csproj.CoreCompileInputs.cache
+C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\C#\MinhaDLL\obj\x86\Release\MinhaDLL.dll
+C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\C#\MinhaDLL\obj\x86\Release\MinhaDLL.pdb

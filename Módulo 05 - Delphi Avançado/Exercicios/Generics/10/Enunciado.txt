@@ -1,0 +1,8 @@
+  "Sisteminha" para controlar a fila de um hospital
+
+  Requisitos
+    - Criar uma classe de Paciente (CPF, Nome e Especialidade a ser atendida)
+    - Criar uma classe para controlar uma lista de pacientes
+      Obs.: Deverá ter um atributo do tipo TQueue
+    - Criar formulário para usar as classes (Pode usar a criatividade)
+    - Criar teste unitário para testar os métodos da classe de lista de pacientes

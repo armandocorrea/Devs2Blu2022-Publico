@@ -1,0 +1,7 @@
+01 - Calculadora
+02 - Crie uma classe com os seguintes atributos (NomeProduto, Quantidade, Preço Unitario e Valor Total), 
+a classe deverá dispor de um método que retorne o Valor Total com descontos aplicados da seguinte forma:
+  a. Até 10 unidades: Sem Desconto
+  b. De 11 a 50 unidades: 10% de desconto
+  c. Acima de 50 unidades: 25% de desconto
+     No final criar um teste unitário para validar o método do Valor Total

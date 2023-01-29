@@ -1,0 +1,21 @@
+DLL's
+  https://www.webtips.com.br/Home/Detail/65
+  https://www.devmedia.com.br/artigo-clube-delphi-102-desenvolvendo-dlls/11770
+
+Manipulação de Arquivos
+  https://www.devmedia.com.br/criando-e-gravando-dados-em-txt-com-delphi/22630 
+  https://www.devmedia.com.br/lendo-dados-de-txt-com-delphi/22662
+  https://www.devmedia.com.br/criando-gravando-e-lendo-dados-de-txt-com-delphi/22736
+
+Firemonkey
+  https://www.oracle.com/java/technologies/downloads/#jdk19-windows
+  C:\Users\Public\Documents\Embarcadero\Studio\21.0\CatalogRepository
+
+
+Componentes
+  https://github.com/skia4delphi/skia4delphi
+  https://github.com/rzaripov1990/ZMaterialComponents
+
+C:\Componentes\ZMaterial\trunk\Library
+  
+https://www.youtube.com/watch?v=JOpMlhtJ9AM

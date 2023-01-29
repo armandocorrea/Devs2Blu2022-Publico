@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{31AC0C43-C00A-4118-8666-F2952549B0C9}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Hospital.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Test\HospitalTests.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Hospital">
+        <MSBuild Projects="Hospital.dproj"/>
+    </Target>
+    <Target Name="Hospital:Clean">
+        <MSBuild Projects="Hospital.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Hospital:Make">
+        <MSBuild Projects="Hospital.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="HospitalTests">
+        <MSBuild Projects="Test\HospitalTests.dproj"/>
+    </Target>
+    <Target Name="HospitalTests:Clean">
+        <MSBuild Projects="Test\HospitalTests.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="HospitalTests:Make">
+        <MSBuild Projects="Test\HospitalTests.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Hospital;HospitalTests"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Hospital:Clean;HospitalTests:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Hospital:Make;HospitalTests:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

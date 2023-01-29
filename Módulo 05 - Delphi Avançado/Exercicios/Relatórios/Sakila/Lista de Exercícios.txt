@@ -1,0 +1,6 @@
+00) Criar um projeto VCL no Delphi com os seguintes requisitos:
+     - Formulário Principal com um MainMenu com apenas um Menu chamado Relatórios e dentro três SubMenus (Exercício 01, Exercício 02 e Exercício 03)
+     - DataModulo contendo a conexão com o banco de dados Sakila
+01) Criar um relatório de atores (actor), podendo filtrar pelo ultimo nome (last_name)
+02) Criar um relatório das Cidades (city) contendo como detalhe todos os seus endereços (address), podendo filtrar pelo nome da cidade (criar um combobox)
+03) Criar um relatório para exibir a quantidade de filmes (film_actor) que cada ator (actor) gravou. Exibir a Quantidade, Código e Nome do Ator

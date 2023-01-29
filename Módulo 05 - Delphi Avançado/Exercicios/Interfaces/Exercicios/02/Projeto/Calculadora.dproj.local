@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/15 16:09:56.567,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/15 16:10:29.677,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/15 16:10:29.677,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/15 16:10:35.510,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Calculadora.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/15 16:10:44.138,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 16:11:13.101,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 16:12:53.055,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\UCalculatorService.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 16:14:10.080,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 16:14:34.131,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\UCalculatorServiceDefault.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 16:17:47.591,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/01/15 16:18:36.132,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\ICalculatorService.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\UCalculatorService.pas</Transaction>
+    <Transaction>2023/01/15 16:19:05.269,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\UIntCalculatorService.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\ICalculatorService.pas</Transaction>
+    <Transaction>2023/01/15 16:19:27.834,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\model\services\UCalculatorService.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\Interfaces\Exercicios\02\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

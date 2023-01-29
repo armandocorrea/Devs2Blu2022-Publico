@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/11/30 20:05:42.000.941,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/11/30 20:06:55.000.477,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\Delphi\uFrmPrincipal.pas</Transaction>
+    <Transaction>2022/11/30 20:06:55.000.477,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\Delphi\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/11/30 20:09:52.000.049,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 05 - Delphi Avançado\Exercicios\02\Delphi\CalculadoraDll.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
