@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 16:28:33.000.083,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 16:28:54.000.803,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/01/22 16:28:54.000.803,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/01/22 16:28:59.000.394,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Command.dproj</Transaction>
+    <Transaction>2023/01/22 16:32:24.000.805,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 16:32:41.000.235,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\pattern\UReceiver.pas</Transaction>
+    <Transaction>2023/01/22 16:37:12.000.176,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 16:37:23.000.281,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\pattern\UCommand.pas</Transaction>
+    <Transaction>2023/01/22 16:37:48.000.250,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 16:37:58.000.822,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\pattern\UConcreteCommand.pas</Transaction>
+    <Transaction>2023/01/22 16:40:39.000.860,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 16:40:51.000.222,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\14 - Command\pattern\UInvoker.pas</Transaction>
+  </Transactions>
+</BorlandProject>

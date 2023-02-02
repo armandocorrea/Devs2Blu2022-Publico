@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/29 17:25:25.811,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/01/29 17:25:27.096,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/01/29 17:28:47.533,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Hello_WorldImpl.pas</Transaction>
+    <Transaction>2023/01/29 17:28:47.628,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Hello_WorldIntf.pas</Transaction>
+    <Transaction>2023/01/29 17:29:20.826,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\Hello_WorldIntf.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Hello_WorldIntf.pas</Transaction>
+    <Transaction>2023/01/29 17:29:25.329,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\Hello_WorldImpl.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Hello_WorldImpl.pas</Transaction>
+    <Transaction>2023/01/29 17:29:50.297,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\frmWebService.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2023/01/29 17:29:50.297,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\frmWebService.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/01/29 17:29:57.137,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\WebModuleUnit.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2023/01/29 17:29:57.137,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\WebModuleUnit.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/01/29 17:30:05.507,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\WebServiceSOAP.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/29 17:44:38.278,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\04 - Criando Primeiro WS SOAP\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

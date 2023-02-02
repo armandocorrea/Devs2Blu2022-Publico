@@ -1,0 +1,2 @@
+https://www.soapui.org/downloads/soapui/
+https://insomnia.rest/download

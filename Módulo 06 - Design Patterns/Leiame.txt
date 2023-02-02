@@ -4,3 +4,6 @@ https://viacep.com.br/
 https://cws.correios.com.br/ajuda
 
 http://maps.googleapis.com/maps/api/distancematrix/json?units=metric&origins=%s&destinations=%s&KEY=%s
+
+https://refactoring.guru/pt-br
+https://www.andrecelestino.com/delphi-design-patterns-retrospectiva/

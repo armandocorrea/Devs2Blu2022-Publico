@@ -1,0 +1,3 @@
+https://docs.awesomeapi.com.br/api-de-moedas
+https://economia.awesomeapi.com.br/json/last/USD-BRL
+https://cep.awesomeapi.com.br/json/05424020

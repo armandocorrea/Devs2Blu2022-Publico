@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 17:26:16.046,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 17:26:42.100,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\UfrmPrincipal.dfm=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/01/22 17:26:42.100,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\UfrmPrincipal.pas=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/22 17:26:47.485,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Observer.dproj=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2023/01/22 17:27:05.206,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:27:31.822,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UNotificacao.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:28:37.424,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:28:47.800,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UObserver.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:30:58.999,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:31:20.779,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteObserver_Saldo.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.dfm</Transaction>
+    <Transaction>2023/01/22 17:31:20.779,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteObserver_Saldo.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:36:09.611,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit2.pas</Transaction>
+    <Transaction>2023/01/22 17:36:20.322,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteObserver_Historico.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit2.dfm</Transaction>
+    <Transaction>2023/01/22 17:36:20.322,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteObserver_Historico.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit2.pas</Transaction>
+    <Transaction>2023/01/22 17:39:57.567,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit3.pas</Transaction>
+    <Transaction>2023/01/22 17:40:53.931,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteObserver_Log.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit3.pas</Transaction>
+    <Transaction>2023/01/22 17:40:53.931,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteObserver_Log.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit3.dfm</Transaction>
+    <Transaction>2023/01/22 17:43:33.506,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:43:41.360,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\USubject.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:45:12.127,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:45:46.483,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteSubject.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.pas</Transaction>
+    <Transaction>2023/01/22 17:45:46.483,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\pattern\UConcreteSubject.dfm=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 06 - Design Patterns\Exercicios\3 - Comportamentais\19 - Observer\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
