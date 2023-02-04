@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/04 19:17:49.000.148,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:23:11.000.929,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 20:32:04.000.534,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/03 21:00:55.000.634,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/04 22:09:46.000.618,=C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/01/29 19:33:33.000.949,C:\Users\kikob\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\WS_Calculadora.dproj</Transaction>
+    <Transaction>2023/01/29 19:33:47.000.612,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 19:34:51.000.520,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\UCalculadora_Interface.pas</Transaction>
+    <Transaction>2023/01/29 19:35:44.000.734,=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 19:35:54.000.819,C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\Unit1.pas=C:\Users\kikob\Desktop\Furb\Aulas\Módulo 07 - Criação de Web Services\Exercícios\07 - WS REST Calculadora\UCalculadora_Impl.pas</Transaction>
+  </Transactions>
+</BorlandProject>

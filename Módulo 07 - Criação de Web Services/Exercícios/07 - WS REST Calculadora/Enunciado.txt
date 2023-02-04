@@ -1,0 +1,3 @@
+  - Criar uma interface para a calculadora
+  - Criar uma classe que implemente a calculadora
+  - Criar os endpoint para cada operação
