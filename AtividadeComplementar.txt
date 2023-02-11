@@ -1,0 +1,11 @@
+Entregar até 17/02
+
+Atividade Complementar
+
+1. Crie uma classe chamada Funcionário que inclui três atributos:
+  a. Nome (String);
+  b. Sobrenome (String);
+  c. Salário mensal (double). 
+
+  A classe deve ter um construtor e métodos getters e setters para cada atributo da classe. 
+  Crie uma tela para inputar os valores de dois ou mais funcionários e exibe o salário de cada um.  
