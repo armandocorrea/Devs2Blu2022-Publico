@@ -1,0 +1,6 @@
+01 - Criar uma API REST com os seguintes recursos
+     A.: Classe Entidade Produtos (Id, Descrição, Unidade e Preço de Venda)
+     B.: Classe Controladora para os Produtos (Get, Post, Delete)
+     C.: Utilizar como forma de envio o JSON (consultar o projeto Trafegando JSON - Classe UDadosGerais)
+     D.: Segurança: Aplicar o Basic Authentication
+     E.: Documentação: Documentar a API na versão 1

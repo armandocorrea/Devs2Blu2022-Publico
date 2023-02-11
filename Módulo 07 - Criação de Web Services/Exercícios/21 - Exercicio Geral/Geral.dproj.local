@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/07 18:19:01.000.775,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/13 18:33:12.000.590,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/21 21:36:13.000.977,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/11 21:40:50.000.143,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:14:26.000.506,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/16 20:32:59.000.010,=C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:27:40.000.354,C:\Users\mysql\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Geral.dproj</Transaction>
+    <Transaction>2023/02/08 19:29:20.000.012,=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:29:39.000.209,D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Unit1.pas=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Model\Entities\UProdutos.pas</Transaction>
+    <Transaction>2023/02/08 19:35:13.000.458,=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Unit1.pas</Transaction>
+    <Transaction>2023/02/08 19:35:29.000.482,D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Unit1.pas=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Model\Services\UController.Produtos.pas</Transaction>
+    <Transaction>2023/02/08 20:00:06.000.081,=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Model\Services\UDadosGerais.pas</Transaction>
+    <Transaction>2023/02/08 20:28:47.000.115,=D:\FURB\Aulas\Módulo 07 - Criação de Web Services\Exercícios\21 - Exercicio Geral\Model\Controllers\UController.Produtos.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="0070269525" Android="0070269525"/>
+	</ActiveMobileDevice>
+</BorlandProject>

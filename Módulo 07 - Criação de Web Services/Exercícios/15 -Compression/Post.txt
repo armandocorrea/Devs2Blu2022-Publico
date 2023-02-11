@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"descricao": "Desenvolvedor Júnior"
+}
+
+{
+	"id": 2,
+	"descricao": "Desenvolvedor Pleno"
+}
+
+{
+	"id": 3,
+	"descricao": "Desenvolvedor Sênior"
+}
