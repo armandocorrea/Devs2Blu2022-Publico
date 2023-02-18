@@ -1,0 +1,13 @@
+CREATE SCHEMA api;
+
+use api;
+
+CREATE TABLE produtos (
+  Id int unsigned NOT NULL AUTO_INCREMENT,
+  Descricao varchar(250) NOT NULL,
+  PrecoVenda double,
+  PrecoCusto double,
+  PRIMARY KEY (Id)    
+)
+
+SELECT * FROM PRODUTOS

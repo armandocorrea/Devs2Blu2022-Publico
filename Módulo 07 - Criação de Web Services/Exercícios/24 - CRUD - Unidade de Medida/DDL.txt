@@ -1,0 +1,22 @@
+CREATE SCHEMA 'api';
+
+use api;
+
+CREATE TABLE produtos (
+  Id int unsigned NOT NULL AUTO_INCREMENT,
+  Descricao varchar(250) NOT NULL,
+  PrecoVenda double,
+  PrecoCusto double,
+  PRIMARY KEY (Id)    
+)
+
+SELECT * FROM PRODUTOS
+
+CREATE TABLE unidademedida (
+  Id int unsigned NOT NULL AUTO_INCREMENT,
+  Descricao varchar(250) NOT NULL,
+  Sigla varchar(3) not null,
+  PRIMARY KEY (Id)    
+)
+
+SELECT * FROM UNIDADEMEDIDA;
