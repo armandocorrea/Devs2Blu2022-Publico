@@ -29,8 +29,12 @@ type
       procedure SetPassword(const Value: String);
       procedure SetStatus(const Value: Byte);
     public
-      constructor Create(const aNome, aLogin, aPassword: String);
-      destructor Destroy; override;
+      constructor Create; overload;
+      constructor Create(const aId: Integer); overload;
+      constructor Create(const aNome, aLogin, aPassword: String); overload;
+      constructor Create(const aId: Integer; const aNome, aLogin, aPassword: String; const aStatus: Byte); overload;
+
+      destructor  Destroy; override;
 
       [SwagProp('Usuário Id', True)]
       property Id: Integer read GetId write SetId;
@@ -52,21 +56,47 @@ type
 
 implementation
 
+uses
+  SysUtils;
+
 { TUser }
+
+constructor TUser.Create;
+begin
+  FJSON := TJSONObject.Create;
+end;
+
+constructor TUser.Create(const aId: Integer);
+begin
+  FId := aId;
+
+  Self.Create;
+end;
 
 constructor TUser.Create(const aNome, aLogin, aPassword: String);
 begin
-  FJSON  := TJSONObject.Create;
-
   FName     := aNome;
   FLogin    := aLogin;
   FPassword := aPassword;
+
+  Self.Create;
+end;
+
+constructor TUser.Create(const aId: Integer; const aNome, aLogin,
+  aPassword: String; const aStatus: Byte);
+begin
+  FId       := aId;
+  FName     := aNome;
+  FLogin    := aLogin;
+  FPassword := aPassword;
+  FStatus   := aStatus;
+
+  Self.Create;
 end;
 
 destructor TUser.Destroy;
 begin
-  if Assigned(FJSON) then
-    FJSON.Free;
+  FreeAndNil(FJSON);
 
   inherited;
 end;
@@ -78,8 +108,9 @@ end;
 
 function TUser.GetJSON: TJSONObject;
 begin
-  FJSON.AddPair('name', FName);
-  FJSON.AddPair('login', FLogin);
+  FJSON.AddPair('id',       FId.ToString);
+  FJSON.AddPair('name',     FName);
+  FJSON.AddPair('login',    FLogin);
   FJSON.AddPair('password', FPassword);
 
   Result := FJSON;

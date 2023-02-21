@@ -110,6 +110,9 @@ begin
     xQuery.Connection := FConexao;
     xQuery.Open(aSQL);
 
+    TDataSetSerializeConfig.GetInstance.Export.FormatDate := 'dd/mm/yyyy';
+    TDataSetSerializeConfig.GetInstance.Export.FormatTime := 'HH:mm:ss';
+
     Result := xQuery.ToJSONArray();
     Self.FecharConexao;
   except

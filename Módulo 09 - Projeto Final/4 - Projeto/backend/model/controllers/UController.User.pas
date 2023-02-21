@@ -40,6 +40,9 @@ type
       class procedure Delete(Req: THorseRequest; Res: THorseResponse; Next: TProc); override;
   end;
 
+var
+  GIdUser: Integer;
+
 implementation
 
 { TControllerUser }
@@ -82,7 +85,10 @@ var
   xDAO: IDAO;
 begin
   xDAO   := TDAOUsers.Create;
-  Result := TDAOUsers(xDAO).ValidarLogin(aUserName, aPassWord);
+
+  GIdUser := TDAOUsers(xDAO).ValidarLogin(aUserName, aPassWord);
+
+  Result := GIdUser > 0;
 end;
 
 end.

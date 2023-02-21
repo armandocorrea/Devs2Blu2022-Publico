@@ -26,7 +26,7 @@ implementation
 
 uses
   System.JSON,
-  System.SysUtils;
+  System.SysUtils, UController.User;
 
 { TControllerLogin }
 
@@ -66,6 +66,7 @@ begin
     end;
 
     //Outros Claims
+    xToken.Claims.SetClaimOfType<Integer>('id', UController.User.GIdUser);
     xToken.Claims.SetClaimOfType<String>('login', xUser);
 
     //Assinatura

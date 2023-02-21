@@ -12,8 +12,8 @@ type
     protected
       FTabela: String;
     public
-      function ObterRegistros: TJSONArray;
-      function ProcurarPorId(const aIdentificador: Integer): TJSONObject;
+      function ObterRegistros: TJSONArray; virtual;
+      function ProcurarPorId(const aIdentificador: Integer): TJSONObject; virtual;
       function AdicionarRegistro(aRegistro: TJSONObject): Boolean;
       function DeletarRegistro(const aIdentificador: Integer): Boolean;
     end;
