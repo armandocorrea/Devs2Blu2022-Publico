@@ -10,7 +10,7 @@ type
   TControllerBase = class
     protected
       class var FDAO: IDAO;
-    public
+
       class procedure Gets(Req: THorseRequest; Res: THorseResponse; Next: TProc); virtual;
       class procedure Get(Req: THorseRequest; Res: THorseResponse; Next: TProc); virtual;
       class procedure Post(Req: THorseRequest; Res: THorseResponse; Next: TProc); virtual;

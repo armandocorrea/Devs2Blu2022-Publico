@@ -11,7 +11,7 @@ type
   TDAOBase = class(TInterfacedObject, IDAO)
     protected
       FTabela: String;
-    public
+
       function ObterRegistros: TJSONArray; virtual;
       function ProcurarPorId(const aIdentificador: Integer): TJSONObject; virtual;
       function AdicionarRegistro(aRegistro: TJSONObject): Boolean;
