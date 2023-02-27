@@ -63,7 +63,7 @@ end;
 procedure TServiceBet.Excluir;
 begin
   if (not Assigned(FBet)) or (FBet.Id = 0) then
-    raise Exception.Create('Nenhum Palpite foi escolhido para exclus„o.');
+    raise Exception.Create('Nenhum Palpite foi escolhido para exclus√£o.');
 
   try
     FRESTClient.BaseURL := Format(URL_BASE_BET + '/%d', [FBet.Id]);
@@ -74,9 +74,9 @@ begin
       API_SUCESSO_SEM_RETORNO:
         Exit;
       API_NAO_AUTORIZADO:
-        raise Exception.Create('Usu·rio n„o autorizado.');
+        raise Exception.Create('Usu√°rio n√£o autorizado.');
       else
-        raise Exception.Create('Erro n„o catalogado.');
+        raise Exception.Create('Erro n√£o catalogado.');
     end;
   except
     on e: exception do
@@ -100,9 +100,9 @@ begin
       API_SUCESSO:
         Self.PreencherBets(FRESTResponse.Content);
       API_NAO_AUTORIZADO:
-        raise Exception.Create('Usu·rio n„o autorizado.');
+        raise Exception.Create('Usu√°rio n√£o autorizado.');
       else
-        raise Exception.Create('Erro ao carregar a lista de Times. CÛdigo do Erro: ' + FRESTResponse.StatusCode.ToString);
+        raise Exception.Create('Erro ao carregar a lista de Palpites. C√≥digo do Erro: ' + FRESTResponse.StatusCode.ToString);
     end;
   except
     on e: exception do
@@ -113,7 +113,7 @@ end;
 function TServiceBet.ObterRegistro(const aId: Integer): TObject;
 begin
   Result := nil;
-  //MÈtodo sem implementaÁ„o no momento
+  //M√©todo sem implementa√ß√£o no momento
 end;
 
 procedure TServiceBet.PreencherBets(const aJsonBets: String);
@@ -240,9 +240,9 @@ begin
       API_CRIADO:
         Exit;
       API_NAO_AUTORIZADO:
-        raise Exception.Create('Usu·rio n„o autorizado.');
+        raise Exception.Create('Usu√°rio n√£o autorizado.');
       else
-        raise Exception.Create('Erro n„o catalogado.');
+        raise Exception.Create('Erro n√£o catalogado.');
     end;
   except
     on e: exception do
