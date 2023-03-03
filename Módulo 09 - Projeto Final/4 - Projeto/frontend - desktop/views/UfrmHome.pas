@@ -42,18 +42,18 @@ implementation
 {$R *.fmx}
 
 uses
-  {UfraTeam,
+  UfraTeam,
   UfraMatch,
-  UfraBet,}
+  UfraBet,
   UUtils.Enums;
 
 procedure TfrmHome.AbrirTeam;
 begin
-  {if not Assigned(FraTeam) then
+  if not Assigned(FraTeam) then
     FraTeam := TFraTeam.Create(Application);
 
   FraTeam.Align := TAlignLayout.Center;
-  lytContainer.AddObject(FraTeam);}
+  lytContainer.AddObject(FraTeam);
 end;
 
 procedure TfrmHome.FormClose(Sender: TObject; var Action: TCloseAction);
@@ -64,20 +64,20 @@ end;
 
 procedure TfrmHome.AbrirMatch;
 begin
-  {if not Assigned(FraMatch) then
+  if not Assigned(FraMatch) then
     FraMatch := TFraMatch.Create(Application);
 
   FraMatch.Align := TAlignLayout.Center;
-  lytContainer.AddObject(FraMatch);}
+  lytContainer.AddObject(FraMatch);
 end;
 
 procedure TfrmHome.AbrirBet;
 begin
-  {if not Assigned(FraBet) then
+  if not Assigned(FraBet) then
     FraBet := TFraBet.Create(Application);
 
   FraBet.Align := TAlignLayout.Center;
-  lytContainer.AddObject(FraBet);}
+  lytContainer.AddObject(FraBet);
 end;
 
 procedure TfrmHome.lstMenuItemClick(const Sender: TCustomListBox;
